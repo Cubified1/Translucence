@@ -1,6 +1,6 @@
 Just a personal thing
 very simple to customize
-this is a fork of Translucence most to all code is similar nothing major has been changed.
+this is a fork of Translucence by CapnKitten most to all code is similar nothing major has been changed.
 
 
 
