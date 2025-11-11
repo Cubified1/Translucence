@@ -1,39 +1,8 @@
-# Translucence Theme - [![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url] [![Discord][discord-logo]][discord-url]
-#### A translucent/frosted glass Discord theme
-<hr>
+Just a personal thing
+very simple to customize
+this is a fork of Translucence most to all code is similar nothing major has been changed.
 
-Current version: v1.0.6.3 (26/02/2021)
 
-[BetterDiscord download](https://betterdiscord.app/theme/Translucence)
-<br>
-[View source files](https://github.com/CapnKitten/BetterDiscord/tree/master/Themes/Translucence)
-
-Vencord link
-```
-https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css
-```
-
-## Previews
-
-#### Main chat area
-
-![discord-101](https://user-images.githubusercontent.com/4013216/125158359-b07aec80-e13e-11eb-8a85-01e49d772192.png)
-
-#### User server info
-
-![discord-102](https://user-images.githubusercontent.com/4013216/125158363-b7a1fa80-e13e-11eb-91c0-b95c32b5bf8e.png)
-
-#### User info popout
-
-![discord-103](https://user-images.githubusercontent.com/4013216/125158368-bc66ae80-e13e-11eb-912b-7d19a84f42a0.png)
-
-#### User settings
-
-![discord-104](https://user-images.githubusercontent.com/4013216/125158372-c25c8f80-e13e-11eb-9165-e24880bc47f7.png)
-
-#### DMs
-
-![discord-105](https://user-images.githubusercontent.com/4013216/125158378-c8527080-e13e-11eb-9ad5-a7f2e229ac2b.png)
 
 ## Variables
 
